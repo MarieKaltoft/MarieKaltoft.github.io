@@ -1,5 +1,5 @@
 ---
-title: "Student Lecture: Marie Kaltoft"
+title: "Student Lecture: Inverse Galois theory"
 collection: talks
 type: "Talk"
 permalink: /talks/2023
