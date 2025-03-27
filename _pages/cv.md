@@ -20,7 +20,7 @@ redirect_from:
   * *Math Camp is an 8-day summer camp for high school students.*
   * Organization: The Danish Youth Association of Science (UNF)
   * Role: **Head of teaching team (2 years)**
-    * Duties: Overseeing volunteers in producing material for and teaching university mathematics to high school students. Responsible for the production and layout of the teaching material, e.g., setting up the book for print in LaTeX.
+    * Duties: Overseeing volunteers in producing material for and teaching university mathematics to high school students. Responsible for the production and layout of the teaching material, e.g., setting up the book for print in LaTeX. [See the 2023 book here (in Danish).](/files/MatCamp2023.pdf)
   * Role: **Teacher (all 4 years)**
     * Duties: Writing material for and teaching university math to high school students.
     * I have taught a variety of subjects, e.g., propositional logic and knot theory. This summer I will be teaching tropical geometry.
