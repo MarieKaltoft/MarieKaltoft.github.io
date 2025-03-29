@@ -51,7 +51,7 @@ redirect_from:
   * Julia (with Oscar package)
   * Python
   * C++
-  * This website
+  * This website :)
 * Languages
   * Danish (native)
   * English (fluent)

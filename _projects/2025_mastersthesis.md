@@ -5,4 +5,6 @@ collection: projects
 date: 2025-01-01
 ---
 
-Advisors: Elisenda Feliu (primary), Carles Checa. In progress.
+**Advisors:** Elisenda Feliu (primary), Carles Checa. 
+
+In progress.
