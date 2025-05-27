@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'jekyll-spaceship'
   gem 'webrick', '~> 1.8'
+  gem 'jekyll-target-blank'
 end
 
 gem 'github-pages'
