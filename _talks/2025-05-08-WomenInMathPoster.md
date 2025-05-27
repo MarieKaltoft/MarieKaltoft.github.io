@@ -8,6 +8,8 @@ date: 2025-05-08
 location: "Aalborg, Denmark"
 ---
 
-I will be taking part in the poster session at the "4th Danish Celebration of Women in Mathematics 2025" at Aalborg University in May.
+I took part in the poster session at the "4th Danish Celebration of Women in Mathematics 2025" at Aalborg University in May.
 
-[More information about the conference](https://www.math.aau.dk/4th-danish-celebration-of-women-in-mathematics-2025-e130169#ee3dee48-5545-4713-aa4a-9904a80fb7ac)
+[See poster here.](/files/Poster_WomenInMath_2025.pdf.pdf)
+
+[More information about the conference.](https://www.math.aau.dk/4th-danish-celebration-of-women-in-mathematics-2025-e130169#ee3dee48-5545-4713-aa4a-9904a80fb7ac)
