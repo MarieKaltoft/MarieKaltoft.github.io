@@ -306,6 +306,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
   - jekyll-spaceship
+  - jekyll-target-blank
 
 # Mimic GitHub Pages with --safe
 whitelist:
