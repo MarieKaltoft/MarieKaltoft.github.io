@@ -7,7 +7,9 @@ date: 2025-01-01
 
 **Advisors:** Elisenda Feliu (primary), Carles Checa.
 
-Abstract: In this thesis, we consider the problem of bounding the number of positive solutions to a multivariate system of polynomials. We first consider the case of a single univariate polynomial. This is quite well understood, and we will consider bounds on both the number of positive solutions, as well as the number of solutions within an interval. We then give a characterization of when a univariate polynomial has all roots real, and we consider an easier to verify condition for all roots to be real, which we further explore using a computer algebra system. For the rest of the thesis, we work with systems of $n$ polynomials in $n$ variables. First, we consider the BKK-bound, which bounds the number of complex solutions based on the Newton polytope(s) of the polynomials. Next, we introduce fewnomial theory, and cover Gale duality, which we finally use to prove a generalization of Descartes' rule of signs for polynomial systems supported on circuits.
+In this thesis, we consider the problem of bounding the number of positive solutions to a multivariate system of polynomials. We first consider the case of a single univariate polynomial. This is quite well understood, and we will consider bounds on both the number of positive solutions, as well as the number of solutions within an interval. We then give a characterization of when all the roots of a univariate polynomial are real. After the characterization, we consider an easier to verify condition for all roots to be real, which we further explore through computer implementations. For the rest of the thesis, we work with systems of $n$ polynomials in $n$ variables. First, we consider the BKK-bound, which bounds the number of complex solutions based on the Newton polytope(s) of the polynomials. Next, we introduce fewnomial theory and cover Gale duality, which we finally use to prove a generalization of Descartes' rule of signs for polynomial systems supported on circuits.
+
+[Download thesis](/files/mastersthesis/thesis.pdf){:target="_blank"}
 
 Code referenced in thesis:
 
