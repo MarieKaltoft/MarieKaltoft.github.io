@@ -14,6 +14,11 @@ redirect_from:
 * MSc in Mathematics, University of Copenhagen, June 2025 (expected)
 * BSc in Mathematics, University of Copenhagen, 2022
 
+## Skills
+
+* IT: Julia, Python, C++, bash, Linux, Java, Git, Docker
+* Languages: Danish (native), English (fluent), German (basic)
+
 ## Teaching experience
 
 * **2022-2025: Math Camp**
@@ -45,20 +50,10 @@ redirect_from:
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-## Skills
-
-* Programming
-  * Julia (with Oscar package)
-  * Python
-  * C++
-  * This website :)
-* Languages
-  * Danish (native)
-  * English (fluent)
-  * German (basic)
-
 ## Volunteer work and extracurriculars
 
+* **2024-present: Web-group in UNF (The Danish Youth Association of Science)**
+  * Develop and maintain website using Python, HTML, and more by collaboration through GitHub.
 * **2016-present: Volunteer at Viking-Con**
   * Organizing tabletop role-playing games at the largest board and role-playing game convention in Denmark. I am currently head of the RPG committee.
   * [Viking-Con website (in Danish)](https://www.viking-con.dk/)
