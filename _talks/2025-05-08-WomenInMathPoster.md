@@ -2,7 +2,7 @@
 title: "Bounds on positive solutions of polynomial systems"
 collection: talks
 type: "Poster session"
-permalink: /talks/2025-05-08-WomenInMath
+#permalink: /talks/2025-05-08-WomenInMath
 venue: "Department of Mathematical Sciences, Aalborg University"
 date: 2025-05-08
 location: "Aalborg, Denmark"
