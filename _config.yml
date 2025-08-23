@@ -268,10 +268,6 @@ defaults:
       share: false #true
       sitemap: false
   - scope:
-      path: "/talkmap/*.html"
-    values:
-      sitemap: false
-  - scope:
       path: "*.html"
     values:
       sitemap: false
