@@ -13,7 +13,7 @@ A list of all the pages found on the site. For you robots out there, there is an
 ## Pages
 
 {% for post in site.pages %}
-{% unless title == "Sitemap"%}
+{% unless post.title == "Sitemap"%}
   {% include archive-single.html %}
 {% endunless %}
 {% endfor %}
