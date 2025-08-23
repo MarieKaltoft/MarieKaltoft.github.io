@@ -8,7 +8,7 @@ sitemap: false
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+A list of all the pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
 ## Pages
 
@@ -28,7 +28,7 @@ A list of all the posts and pages found on the site. For you robots out there, t
   {% capture label %}{{ collection.label }}{% endcapture %}
   {% if label != written_label %}
 
-    ## {{ label }}
+    <h2> {{ label }} </h2>
 
     {% capture written_label %}{{ label }}{% endcapture %}
   {% endif %}
