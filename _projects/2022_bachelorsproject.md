@@ -3,6 +3,7 @@ title: "Bachelor's Project: Realising Frobenius groups as Galois groups (2022)"
 excerpt: "Advisor: Ian Kiming"
 collection: projects
 date: 2022-06-23
+sitemap: true
 ---
 
 **Advisor:** Ian Kiming.

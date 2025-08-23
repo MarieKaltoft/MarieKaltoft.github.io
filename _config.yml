@@ -247,6 +247,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sitemap: false
   # _projects
   - scope:
       path: ""
@@ -256,6 +257,7 @@ defaults:
       author_profile: true
       share: false #true
       comment: true
+      sitemap: false
   # _talks
   - scope:
       path: ""
@@ -264,6 +266,15 @@ defaults:
       layout: talk
       author_profile: true
       share: false #true
+      sitemap: false
+  - scope:
+      path: "*.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "*.md"
+    values:
+      sitemap: false
   # _teaching
   #- scope:
   #    path: ""

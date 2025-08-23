@@ -6,6 +6,7 @@ permalink: /talks/2025-05-08-WomenInMath
 venue: "Department of Mathematical Sciences, Aalborg University"
 date: 2025-05-08
 location: "Aalborg, Denmark"
+sitemap: true
 ---
 
 I took part in the poster session at the "4th Danish Celebration of Women in Mathematics 2025" at Aalborg University in May.

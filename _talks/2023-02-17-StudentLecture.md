@@ -6,6 +6,7 @@ permalink: /talks/2023
 venue: "Department of Mathematical Science, University of Copenhagen"
 date: 2023-02-17
 location: "Copenhagen, Denmark"
+sitemap: true
 ---
 
 The Mathematical Student Council is happy to announce that we will have a student lecture Friday the 17th of February, held by Marie Stuhr Kaltoft.
