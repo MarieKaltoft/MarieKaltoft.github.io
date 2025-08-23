@@ -2,7 +2,7 @@
 title: "Student Lecture: Inverse Galois theory"
 collection: talks
 type: "Talk"
-permalink: /talks/2023
+permalink: /talks/2023-02-17-StudentLecture
 venue: "Department of Mathematical Science, University of Copenhagen"
 date: 2023-02-17
 location: "Copenhagen, Denmark"
