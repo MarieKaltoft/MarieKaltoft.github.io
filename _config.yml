@@ -302,20 +302,20 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
   - jekyll-spaceship
   - jekyll-target-blank
+  - jekyll-sitemap
 
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-sitemap
 
 
 # Archives
