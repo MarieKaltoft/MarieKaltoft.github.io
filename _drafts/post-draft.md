@@ -1,5 +1,6 @@
 ---
 layout: single
+sitemap: false
 title:  "Draft Post"
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
